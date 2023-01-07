@@ -25,7 +25,6 @@ public class MovieManager {
 
     public String[] findAll() {
         return movies;
-
     }
 
     public String[] findLast() {
